@@ -234,8 +234,13 @@ body {
 }
 
 .tabs-content {
+  display: none;
   margin-right: 70px;
   /* margin-left: 42px; */
+}
+
+.visible {
+  display: block;
 }
 
 .tabs {
